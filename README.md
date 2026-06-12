@@ -39,4 +39,4 @@ Career Copilot AI is a full-stack AI-powered platform designed to help job seeke
 
 ## Author
 
-Ram
+Shreeram Ihole
